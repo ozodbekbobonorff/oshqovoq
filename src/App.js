@@ -5,6 +5,7 @@ import StadiumDetail from "./pages/StadiumDetail";
 import StadiumCreate from "./pages/StadiumCreate";
 
 const App = () => {
+  // menga app yoqadi
   return (
     <BrowserRouter>
       <Routes>
